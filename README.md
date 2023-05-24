@@ -22,7 +22,7 @@ Lembre-se, você não precisa saber fazer TUDO que esta descrito para ser avalia
 
 O desafio consiste no desenvolvimento de um aplicativo em [Flutter](http://flutter.dev) que consuma a API do [OpenWeatherApi](https://openweathermap.org/api/one-call-3).
 
-O App deve conter duas telas obrigatoriamente, a primeira tela com dois campos de texto, um que coleta a latitude e outro que coleta a longitude que sera digitada pelo usuário. A segunda tela que exibe as informações de tempo do dia (<b>Temperatura durante o dia, temperatura durante a tarde, temperatura durante a noite, temperatura máxima e temperatura mínima</b>)
+O App deve conter duas telas obrigatoriamente, a primeira tela com dois campos de texto, um que coleta a latitude e outro que coleta a longitude que sera digitada pelo usuário. A segunda tela que exibe as informações de tempo do dia (<b>Temperatura durante o dia, temperatura durante a tarde, temperatura durante a noite, temperatura máxima e temperatura mínima</b>) baseado na Latitude e Longitude digitada pelo usuário
 
 <b>Lembre-se de converter as temperaturas para Celcius!</b>
 
